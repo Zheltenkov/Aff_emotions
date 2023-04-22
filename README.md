@@ -1,4 +1,5 @@
-<video width="640" height="480" controls>
-  <source src="result.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+Проект "Распознавание эмоций по изображению лица"
+
+<video src="result.mp4" width="640" height="480" controls>
+  Ваш браузер не поддерживает тег video.
 </video>
