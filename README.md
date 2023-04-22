@@ -10,7 +10,7 @@
 ## Operation modes
   The code can work in two modes: training and inference. With inference we load video into the input_video folder. The model processes the video and creates additional graphs for a more detailed description of the emotional background of the person under study.
   
-## Пример работы модели
+## Example of model work
   In the directory you can find an example of how the model works in MP4 format.
   
 ## Installation and use
