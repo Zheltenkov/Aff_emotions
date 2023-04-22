@@ -22,6 +22,8 @@ If you have pre-trained weights
   - run the main.py file with working_status = 'inference'
 
 If you do not have a pre-trained weights:
+  - clone a repository
+  - set the dependencies
   - set working_status = 'train' in config/parametrs.py
   - for the parameters emo_model, arr_model, val_model in the same file, 
     put the values None, so that the model does not refer to non-existent weights
